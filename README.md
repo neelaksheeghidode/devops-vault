@@ -4,12 +4,13 @@ Welcome to my DevOps learning workspace. This repository tracks my daily learnin
 
 ---
 
-## 🗂️ Workspace Architecture & Quick Links
 
+### 🗂️ Workspace Architecture
 
+```text
 Devops/
-├── 🐧 01_linux/          --> Fundamentals,labs & Notes
-├── 🐙 02_git-github/     --> Version Control & GitHub Workflows
+├── 🐧 01_linux/          --> Fundamentals, Labs & Notes
+├── 🐙 02_git-github/      --> Version Control & GitHub Workflows
 ├── 📜 03_bash-scripting/ --> System Automation & Shell Scripts
 ├── 🌐 04_networking/     --> Networking Fundamentals for DevOps
 ├── ☁️ 05_aws/            --> Cloud Infrastructure & Services
