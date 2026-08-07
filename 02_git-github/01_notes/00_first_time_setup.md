@@ -29,12 +29,12 @@ git config --global user.email "your-email@example.com"
 
 Right-click in your project folder ➔ Open Git Bash here
 
-bash
+```bash
 git init
 git status
 git add .
 git commit -m "First commit"
-
+```
 
 
 ## 🌐 Step 3: Create Repository on GitHub
@@ -54,26 +54,30 @@ git commit -m "First commit"
 
 
 ## 🔗 Step 4: Link & Push to GitHub
-Bash
+
+```Bash
 
 git branch -M main
 git remote add origin YOUR_COPIED_GITHUB_URL
 git push -u origin main
+```
 
-    🔑 Credentials Note:
 
-    When prompted, enter your GitHub Username, and paste your PAT Token as the password (text won't be visible while pasting).
+
+ 🔑 Note:
+
+ When prompted, enter your GitHub Username, and paste your PAT Token as the password (text won't be visible while pasting).
 
 
 
 ## 🔄 Daily Workflow (For Every New Update)
-Bash
+
+
+```Bash
 
 git add .
-
 git commit -m "Your update message"
-
 git push
-
+```
 
 
