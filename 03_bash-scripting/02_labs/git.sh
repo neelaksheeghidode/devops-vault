@@ -1,22 +1,16 @@
 #!/bin/bash
 
-echo "========================================"
-echo "🚀 Starting Automated Git Push Cycle..."
-echo "========================================"
+# Color Variables
+GREEN='\033[0;32m'
+CYAN='\033[0;36m'
+NC='\033[0m' # No Color
 
-# Ask for commit message
-read -p "📝 Enter commit message: " msg
+echo -e "${CYAN}=== Starting Auto Push ===${NC}"
 
-# Execute Git Commands
-echo -e "\n⏳ Staging files..."
+read -p "Enter commit message: " msg
+
 git add .
-
-echo "💾 Committing changes..."
 git commit -m "$msg"
-
-echo "🚀 Pushing to GitHub..."
 git push
 
-echo "========================================"
-echo "✅ Push Completed Successfully!"
-echo "========================================"
+echo -e "${GREEN}=== Push Completed Successfully! ===${NC}""
