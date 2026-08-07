@@ -1,10 +1,22 @@
 #!/bin/bash
 
-# Ask for commit message
-echo "Enter commit message:"
-read msg
+echo "========================================"
+echo "🚀 Starting Automated Git Push Cycle..."
+echo "========================================"
 
-# Git commands cycle
+# Ask for commit message
+read -p "📝 Enter commit message: " msg
+
+# Execute Git Commands
+echo -e "\n⏳ Staging files..."
 git add .
+
+echo "💾 Committing changes..."
 git commit -m "$msg"
+
+echo "🚀 Pushing to GitHub..."
 git push
+
+echo "========================================"
+echo "✅ Push Completed Successfully!"
+echo "========================================"
