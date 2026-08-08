@@ -1,3 +1,5 @@
+# BASIC COMMANDS
+
 ### 1.1 Moving Around the File System
 
 | Command | What it does |
@@ -12,8 +14,6 @@
 | `whereis command` | Shows binary, source, and man page locations |
 
 ### 1.2 Creating, Copying, Moving, Deleting
-
-1.2 Creating, Copying, Moving, Deleting
 
 | Command | What it does |
 | --- | --- |
