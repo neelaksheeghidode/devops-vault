@@ -85,20 +85,10 @@ Every program running in Linux is assigned a unique PID (Process ID) and cycles 
 
 ### 2. Essential System Diagnostic Commands
 
-# Display absolute path of current working directory
-```pwd```
-
-# List directory contents with hidden files and permissions
-```ls -la```
-
-# View currently logged-in user identity
-```whoami```
-
-# Check memory (RAM) utilization in MBs/GBs
-```free -m```
-
-# Inspect disk storage usage across mounted filesystems
-```df -h```
-
-# Monitor real-time process execution and CPU/RAM usage
-```top```
+| Command | Purpose / Description | Category |
+| :--- | :--- | :--- |
+| `pwd` | Displays the absolute path of the current working directory | Navigation |
+| `ls -la` | Lists directory contents including hidden files, permissions, and ownership | File Inspection |
+| `whoami` | Displays the username of the currently logged-in user | User Info |
+| `free -m` | Checks memory (RAM) utilization in Megabytes (MBs) | System Diagnostics |
+| `df -h` | Inspects disk storage usage across mounted filesystems in human-readable format | System Diagnostics |`
