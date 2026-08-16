@@ -1,6 +1,6 @@
 # BASIC COMMANDS
 
-### 1.1 Moving Around the File System
+### 1.1 Moving Around the File System [ ]
 
 | Command | What it does |
 | --- | --- |
@@ -13,7 +13,7 @@
 | `which command` | Shows the path of a command |
 | `whereis command` | Shows binary, source, and man page locations |
 
-### 1.2 Creating, Copying, Moving, Deleting
+### 1.2 Creating, Copying, Moving, Deleting [x]
 
 | Command | What it does |
 | --- | --- |
@@ -26,7 +26,7 @@
 | `rm -r folder`, `rm -rf folder` | Deletes a folder (force, no confirmation) |
 | `rmdir folder` | Removes an empty folder |
 
-### 1.3 Viewing and Editing Files
+### 1.3 Viewing and Editing Files [ ]
 
 | Command | What it does |
 | --- | --- |
@@ -39,7 +39,7 @@
 | `wc file`, `wc -l file` | Counts words, lines, characters |
 | `diff file1 file2` | Compares two files |
 
-### 1.4 Permissions and Ownership
+### 1.4 Permissions and Ownership [ ]
 
 | Command | What it does |
 | --- | --- |
@@ -49,7 +49,7 @@
 | `ls -l` | Shows permissions in `rwx` format |
 | `umask` | Shows or sets default permission mask |
 
-### 1.5 Process Basics
+### 1.5 Process Basics [ ]
 
 | Command | What it does |
 | --- | --- |
@@ -60,7 +60,7 @@
 | `jobs` | Lists background jobs in current shell |
 | `bg`, `fg` | Sends a job to background/foreground |
 
-### 1.6 Basic Networking
+### 1.6 Basic Networking [ ]
 
 | Command | What it does |
 | --- | --- |
@@ -71,7 +71,7 @@
 | `hostname` | Shows the machine's hostname |
 | `netstat -tulnp` | Shows open ports and listening services |
 
-### 1.7 Package Management
+### 1.7 Package Management [ ]
 
 | Command | What it does |
 | --- | --- |
@@ -81,7 +81,7 @@
 | `apt remove package` | Removes a package |
 | `dpkg -l` / `rpm -qa` | Lists installed packages |
 
-### 1.8 Compression and Archiving
+### 1.8 Compression and Archiving [ ]
 
 | Command | What it does |
 | --- | --- |
@@ -92,7 +92,7 @@
 | `zip -r archive.zip folder` | Creates a zip archive |
 | `unzip archive.zip` | Extracts a zip archive |
 
-### 1.9 System Information
+### 1.9 System Information [ ]
 
 | Command | What it does |
 | --- | --- |
