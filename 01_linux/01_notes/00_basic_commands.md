@@ -1,6 +1,6 @@
 # BASIC COMMANDS
 
-### 1.1 Moving Around the File System ⏳
+### 1.1 Moving Around the File System ✅
 
 | Command | What it does |
 | --- | --- |
@@ -26,7 +26,7 @@
 | `rm -r folder`, `rm -rf folder` | Deletes a folder (force, no confirmation) |
 | `rmdir folder` | Removes an empty folder |
 
-### 1.3 Viewing and Editing Files ⏳
+### 1.3 Viewing and Editing Files ✅
 
 | Command | What it does |
 | --- | --- |
