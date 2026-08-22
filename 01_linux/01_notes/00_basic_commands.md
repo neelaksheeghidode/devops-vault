@@ -39,7 +39,7 @@
 | `wc file`, `wc -l file` | Counts words, lines, characters |
 | `diff file1 file2` | Compares two files |
 
-### 1.4 Permissions and Ownership ⏳
+### 1.4 Permissions and Ownership ✅
 
 | Command | What it does |
 | --- | --- |
