@@ -49,7 +49,7 @@
 | `ls -l` | Shows permissions in `rwx` format |
 | `umask` | Shows or sets default permission mask |
 
-### 1.5 Process Basics ⏳
+### 1.5 Process Basics ✅
 
 | Command | What it does |
 | --- | --- |
@@ -92,7 +92,7 @@
 | `zip -r archive.zip folder` | Creates a zip archive |
 | `unzip archive.zip` | Extracts a zip archive |
 
-### 1.9 System Information ⏳
+### 1.9 System Information ✅
 
 | Command | What it does |
 | --- | --- |
