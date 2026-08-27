@@ -71,7 +71,7 @@
 | `hostname` | Shows the machine's hostname |
 | `netstat -tulnp` | Shows open ports and listening services |
 
-### 1.7 Package Management ⏳
+### 1.7 Package Management ✅
 
 | Command | What it does |
 | --- | --- |
@@ -81,7 +81,7 @@
 | `apt remove package` | Removes a package |
 | `dpkg -l` / `rpm -qa` | Lists installed packages |
 
-### 1.8 Compression and Archiving ⏳
+### 1.8 Compression and Archiving ✅
 
 | Command | What it does |
 | --- | --- |
