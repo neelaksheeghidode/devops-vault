@@ -60,13 +60,13 @@
 | `jobs` | Lists background jobs in current shell |
 | `bg`, `fg` | Sends a job to background/foreground |
 
-### 1.6 Basic Networking ⏳
+### 1.6 Basic Networking ✅
 
 | Command | What it does |
 | --- | --- |
 | `ping host` | Checks if a host is reachable |
 | `ifconfig` / `ip a` | Shows network interfaces and IPs |
-| `curl url` | Fetches data from a URL |
+| `curl -IL url` | Fetches data from a URL |
 | `wget url` | Downloads a file from a URL |
 | `hostname` | Shows the machine's hostname |
 | `netstat -tulnp` | Shows open ports and listening services |
