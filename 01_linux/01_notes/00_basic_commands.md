@@ -17,7 +17,7 @@
 
 | Command | What it does |
 | --- | --- |
-| `touch file` | Creates an empty file |
+| `touch filename` | Creates an empty file |
 | `mkdir folder`, `mkdir -p a/b/c` | Creates a directory (with parent folders) |
 | `cp file1 file2` | Copies a file |
 | `cp -r folder1 folder2` | Copies a folder recursively |
