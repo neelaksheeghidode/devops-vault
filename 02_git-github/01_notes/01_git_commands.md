@@ -1,6 +1,6 @@
 # Git & Linux Command Reference Guide
 
-| Command | In-Depth Explanation & Use Case |
+| Command | Explanation & Use Case |
 | :--- | :--- |
 | `git --version` | Displays the currently installed version of Git to verify installation and check compatibility. |
 | `git config --global user.name "Name"` | Sets the global username associated with all your local Git commits across the system. |
@@ -32,8 +32,6 @@
 | `git reset <hash>` | Resets your current branch pointer back to a specified commit while keeping working changes intact. |
 | `git reset --hard <hash>` | Completely resets your branch pointer and wipes out all working directory changes to match a past commit. |
 | `git revert <hash>` | Creates a brand new commit that explicitly undoes the changes introduced by a specific prior commit. |
-| Command | In-Depth Explanation & Use Case |
-| :--- | :--- |
 | `git config --global --unset <key>` | Removes a specific global configuration setting from your Git environment. |
 | `git rm <file>` | Removes files from your working tree and stages the removal for the next commit. |
 | `git rm --cached <file>` | Stops tracking a file and removes it from the staging area while keeping it locally on disk. |
