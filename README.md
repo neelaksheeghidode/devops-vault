@@ -20,57 +20,32 @@ Devops/
 
 
 
-<table>
-  <thead>
-    <tr>
-      <th>Module</th>
-      <th>Topic</th>
-      <th>Core Content &amp; Focus Areas</th>
-      <th>Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><b>01</b></td>
-      <td>🐧 Linux Essentials</td>
-      <td>System Administration, Permissions, Networking &amp; Troubleshooting</td>
-      <td align="center">🟢 Active</td>
-    </tr>
-    <tr>
-      <td align="center"><b>02</b></td>
-      <td>🐙 Git &amp; GitHub</td>
-      <td>Version Control, Branching Strategies &amp; Collaboration</td>
-      <td align="center">🟢 Active</td>
-    </tr>
-    <tr>
-      <td align="center"><b>03</b></td>
-      <td>📜 Bash Scripting</td>
-      <td>System Automation, Shell Scripts, Loops &amp; Cron Jobs</td>
-      <td align="center">🟢 Active</td>
-    </tr>
-    <tr>
-      <td align="center"><b>04</b></td>
-      <td>🌐 Networking</td>
-      <td>IP Addressing, DNS, HTTP/HTTPS &amp; Ports</td>
-      <td align="center">🟡 Planned</td>
-    </tr>
-    <tr>
-      <td align="center"><b>05</b></td>
-      <td>☁️ AWS Cloud</td>
-      <td>Cloud Infrastructure, IAM, EC2 &amp; S3</td>
-      <td align="center">🟡 Planned</td>
-    </tr>
-    <tr>
-      <td align="center"><b>06</b></td>
-      <td>🐍 Python for DevOps</td>
-      <td>Scripting, Automation, APIs &amp; Boto3 Integration</td>
-      <td align="center">🟡 Planned</td>
-    </tr>
-    <tr>
-      <td align="center"><b>07</b></td>
-      <td>🐳 Docker</td>
-      <td>Containerization, Dockerfiles &amp; Image Management</td>
-      <td align="center">🟢 Active</td>
-    </tr>
-  </tbody>
-</table>
+## 🗺️ Learning Roadmap & Status
+
+* **01 🐧 Linux Essentials** 
+  * *Content:* System Administration, Permissions, Networking & Troubleshooting 
+  * *Status:* 🟢 Active
+
+* **02 🐙 Git & GitHub** 
+  * *Content:* Version Control, Branching Strategies & Collaboration 
+  * *Status:* 🟢 Active
+
+* **03 📜 Bash Scripting** 
+  * *Content:* System Automation, Shell Scripts, Loops & Cron Jobs 
+  * *Status:* 🟢 Active
+
+* **04 🌐 Networking** 
+  * *Content:* IP Addressing, DNS, HTTP/HTTPS & Ports 
+  * *Status:* 🟡 Planned
+
+* **05 ☁️ AWS Cloud** 
+  * *Content:* Cloud Infrastructure, IAM, EC2 & S3 
+  * *Status:* 🟡 Planned
+
+* **06 🐍 Python for DevOps** 
+  * *Content:* Scripting, Automation, APIs & Boto3 Integration 
+  * *Status:* 🟡 Planned
+
+* **07 🐳 Docker** 
+  * *Content:* Containerization, Dockerfiles & Image Management 
+  * *Status:* 🟢 Active
