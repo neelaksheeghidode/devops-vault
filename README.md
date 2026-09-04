@@ -1,51 +1,27 @@
 # 🚀 DevOps Learning & Hands-On Workspace
 
-<div align="center">
-  <p><em>A centralized repository tracking daily learning, hands-on labs, automation scripts, and cloud infrastructure setups.</em></p>
-</div>
-
----
-
-## 🗂️ Workspace Architecture
-
-```text
-Devops/
-├── 🐧 01_linux/          --> System Administration & Troubleshooting
-├── 🐙 02_git-github/      --> Version Control & Collaboration Workflows
-├── 📜 03_bash-scripting/ --> Shell Automation & Scripts
-├── 🌐 04_networking/     --> Protocols, DNS & Infrastructure
-├── ☁️ 05_aws/            --> Cloud Services & Architecture
-├── 🐍 06_python/         --> Automation & Boto3 Integration
-└── 🐳 07_docker/         --> Containerization & Dockerfiles
-
-
+> **About Me:** Hi, I am **Neelakshee**—a 22-year-old fresher diving headfirst into the world of DevOps. I am building this repository as my public proof-of-work to track my hands-on journey, daily learning, and scripts from scratch. Alongside building production-ready infrastructure skills, I share my practical walkthroughs and video documentation on my YouTube channel: 
+> [Cloud and Code with Neel](https://www.youtube.com/@Cloud_and_code_with_Neel).
 
 ## 🗺️ Learning Roadmap & Status
 
-* **01 🐧 Linux Essentials** 
-  * *Content:* System Administration, Permissions, Networking & Troubleshooting 
-  * *Status:* 🟢 Active
+[![Linux](https://img.shields.io/badge/Module_01-Linux_Essentials-blue?style=for-the-badge&logo=linux)](https://github.com) [![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)](https://github.com)  
+*Core Focus:* System Administration, Permissions, Networking & Troubleshooting
 
-* **02 🐙 Git & GitHub** 
-  * *Content:* Version Control, Branching Strategies & Collaboration 
-  * *Status:* 🟢 Active
+[![Git](https://img.shields.io/badge/Module_02-Git_%26_GitHub-orange?style=for-the-badge&logo=git)](https://github.com) [![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)](https://github.com)  
+*Core Focus:* Version Control, Branching Strategies & Collaboration
 
-* **03 📜 Bash Scripting** 
-  * *Content:* System Automation, Shell Scripts, Loops & Cron Jobs 
-  * *Status:* 🟢 Active
+[![Bash](https://img.shields.io/badge/Module_03-Bash_Scripting-yellow?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com) [![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)](https://github.com)  
+*Core Focus:* System Automation, Shell Scripts, Loops & Cron Jobs
 
-* **04 🌐 Networking** 
-  * *Content:* IP Addressing, DNS, HTTP/HTTPS & Ports 
-  * *Status:* 🟡 Planned
+[![Networking](https://img.shields.io/badge/Module_04-Networking-lightgrey?style=for-the-badge&logo=internet-explorer)](https://github.com) [![Status](https://img.shields.io/badge/Status-Planned-yellow?style=for-the-badge)](https://github.com)  
+*Core Focus:* IP Addressing, DNS, HTTP/HTTPS & Ports
 
-* **05 ☁️ AWS Cloud** 
-  * *Content:* Cloud Infrastructure, IAM, EC2 & S3 
-  * *Status:* 🟡 Planned
+[![AWS](https://img.shields.io/badge/Module_05-AWS_Cloud-inactive?style=for-the-badge&logo=amazonaws&logoColor=orange)](https://github.com) [![Status](https://img.shields.io/badge/Status-Planned-yellow?style=for-the-badge)](https://github.com)  
+*Core Focus:* Cloud Infrastructure, IAM, EC2 & S3
 
-* **06 🐍 Python for DevOps** 
-  * *Content:* Scripting, Automation, APIs & Boto3 Integration 
-  * *Status:* 🟡 Planned
+[![Python](https://img.shields.io/badge/Module_06-Python_for_DevOps-blue?style=for-the-badge&logo=python&logoColor=yellow)](https://github.com) [![Status](https://img.shields.io/badge/Status-Planned-yellow?style=for-the-badge)](https://github.com)  
+*Core Focus:* Scripting, Automation, APIs & Boto3 Integration
 
-* **07 🐳 Docker** 
-  * *Content:* Containerization, Dockerfiles & Image Management 
-  * *Status:* 🟢 Active
+[![Docker](https://img.shields.io/badge/Module_07-Docker-blue?style=for-the-badge&logo=docker)](https://github.com) [![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)](https://github.com)  
+*Core Focus:* Containerization, Dockerfiles & Image Management
