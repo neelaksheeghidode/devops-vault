@@ -20,16 +20,57 @@ Devops/
 
 
 
-## 🗺️ Learning Roadmap & Status
-
-| Module | Topic | Core Content & Focus Areas | Status |
-| :---: | :--- | :--- | :---: |
-| **01** | 🐧 Linux Essentials | System Administration, Permissions, Networking & Troubleshooting | 🟢 Active |
-| **02** | 🐙 Git & GitHub | Version Control, Branching Strategies & Collaboration | 🟢 Active |
-| **03** | 📜 Bash Scripting | System Automation, Shell Scripts, Loops & Cron Jobs | 🟢 Active |
-| **04** | 🌐 Networking | IP Addressing, DNS, HTTP/HTTPS & Ports | 🟡 Planned |
-| **05** | ☁️  AWS Cloud | Cloud Infrastructure, IAM, EC2 & S3 | 🟡 Planned |
-| **06** | 🐍 Python for DevOps | Scripting, Automation, APIs & Boto3 Integration | 🟡 Planned |
-| **07** | 🐳 Docker | Containerization, Dockerfiles & Image Management | 🟢 Active |
-
-
+<table>
+  <thead>
+    <tr>
+      <th>Module</th>
+      <th>Topic</th>
+      <th>Core Content &amp; Focus Areas</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>01</b></td>
+      <td>🐧 Linux Essentials</td>
+      <td>System Administration, Permissions, Networking &amp; Troubleshooting</td>
+      <td align="center">🟢 Active</td>
+    </tr>
+    <tr>
+      <td align="center"><b>02</b></td>
+      <td>🐙 Git &amp; GitHub</td>
+      <td>Version Control, Branching Strategies &amp; Collaboration</td>
+      <td align="center">🟢 Active</td>
+    </tr>
+    <tr>
+      <td align="center"><b>03</b></td>
+      <td>📜 Bash Scripting</td>
+      <td>System Automation, Shell Scripts, Loops &amp; Cron Jobs</td>
+      <td align="center">🟢 Active</td>
+    </tr>
+    <tr>
+      <td align="center"><b>04</b></td>
+      <td>🌐 Networking</td>
+      <td>IP Addressing, DNS, HTTP/HTTPS &amp; Ports</td>
+      <td align="center">🟡 Planned</td>
+    </tr>
+    <tr>
+      <td align="center"><b>05</b></td>
+      <td>☁️ AWS Cloud</td>
+      <td>Cloud Infrastructure, IAM, EC2 &amp; S3</td>
+      <td align="center">🟡 Planned</td>
+    </tr>
+    <tr>
+      <td align="center"><b>06</b></td>
+      <td>🐍 Python for DevOps</td>
+      <td>Scripting, Automation, APIs &amp; Boto3 Integration</td>
+      <td align="center">🟡 Planned</td>
+    </tr>
+    <tr>
+      <td align="center"><b>07</b></td>
+      <td>🐳 Docker</td>
+      <td>Containerization, Dockerfiles &amp; Image Management</td>
+      <td align="center">🟢 Active</td>
+    </tr>
+  </tbody>
+</table>
