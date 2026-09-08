@@ -25,10 +25,10 @@ Explore the structured notes and cheat sheets below to build a rock-solid founda
 | **05** | [`05_user_group_management.md`](./01_notes/05_user_group_management.md) | Useradd, Usermod, Passwd, Sudoers | ![User](https://img.shields.io/badge/IAM-Users%20%26%20Groups-blue?style=flat-square) |
 | **06** | [`06_process_resource_monitoring.md`](./01_notes/06_process_resource_monitoring.md) | PS, Top, Htop, Kill, Nice, Systemd | ![Proc](https://img.shields.io/badge/Monitoring-Processes-informational?style=flat-square) |
 | **07** | [`07_basic_networking.md`](./01_notes/07_basic_networking.md) | IP, Curl, Wget, Netstat, SS, DNS | ![Net](https://img.shields.io/badge/Network-Diagnostics-success?style=flat-square) |
-| **08** | [`08_package_management_services.md`](./01_notes/08_package_management_services.md) | APT, YUM, DNF, Systemctl (Services) | ![Pkg](https://img.shields.io/badge/Service-Management-yellow?style=flat-square) |
-| **09** | [`09_advanced_text_processing.md`](./01_notes/09_advanced_text_processing.md) | Grep, Sed, Awk (The Holy Trinity) | ![Text](https://img.shields.io/badge/Parsing-Grep/Sed/Awk-orange?style=flat-square) |
-| **10** | [`10_compression_archiving.md`](./01_notes/10_compression_archiving.md) | Tar, Gzip, Zip, Unzip | ![Tar](https://img.shields.io/badge/Archive-Tar/Gzip-blueviolet?style=flat-square) |
-| **11** | [`11_system_info_disk_usage.md`](./01_notes/11_system_info_disk_usage.md) | DF, Du, Uptime, Free, Lscpu | ![Disk](https://img.shields.io/badge/System-Diagnostics-critical?style=flat-square) |
+| **08** | [`08_package_management_services.md`](./01_notes/08_package_management_services.md) | apt , yum , dnf, systemctl (Services) | ![Pkg](https://img.shields.io/badge/Service-Management-yellow?style=flat-square) |
+| **09** | [`09_advanced_text_processing.md`](./01_notes/09_advanced_text_processing.md) | grep, sed, awk (The Holy Trinity) | ![Text](https://img.shields.io/badge/Parsing-Grep/Sed/Awk-orange?style=flat-square) |
+| **10** | [`10_compression_archiving.md`](./01_notes/10_compression_archiving.md) | tar, gzip, zip, unzip | ![Tar](https://img.shields.io/badge/Archive-Tar/Gzip-blueviolet?style=flat-square) |
+| **11** | [`11_system_info_disk_usage.md`](./01_notes/11_system_info_disk_usage.md) | df , du, uptime, free, Lscpu | ![Disk](https://img.shields.io/badge/System-Diagnostics-critical?style=flat-square) |
 | **12** | [`12_disk_partitioning_lvm.md`](./01_notes/12_disk_partitioning_lvm.md) | Fdisk, Parted, Physical & Logical Volumes | ![LVM](https://img.shields.io/badge/Storage-LVM%20%26%20Partitions-success?style=flat-square) |
 
 ---
