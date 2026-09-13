@@ -116,7 +116,7 @@
 | Command | What it does |
 | :--- | :--- |
 | `grep "pattern" file` | Searches for specific text or patterns in files |
-| `grep -i`, `grep -r` | Case-insensitive search, recursive search in directories |
+| `grep -iC 3`, `grep -r` | Case-insensitive search, recursive search in directories and error search with more lines |
 | `awk '{print $1}'` | Advanced text processing and column extraction |
 | `sed 's/old/new/g'` | Stream editor to find and replace text |
 | `cut -d',' -f1 file` | Extracts specific columns from files/output |
