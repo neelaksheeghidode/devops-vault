@@ -42,9 +42,14 @@ When you type a Docker command, a well-organized background machinery handles yo
 
 ## Docker
 
-Docker was brought in so that when you run code on someone else's machine and it breaks , that problem gets solved. Docker carries its own environment, meaning it travels with its own little world 🤏. But a container is just an empty box—so how do we actually run it? That's where Docker Engine comes in.
+Docker was brought in so that when you run code on someone else's machine and it breaks , that problem gets solved. 
+
+Docker carries its own environment, meaning it travels with its own little world 🤏. But a container is just an empty box—so how do we actually run it? That's where Docker Engine comes in.
 It is not some heavy OS rather, it is a veryyy lightweight client-server application that quietly runs in the background using the current OS.
 And to make it work we use
+
 Docker CLI: This is where you give your Docker commands. Like docker run etc..
-REST API: This acts as the bridge that carries your commands to the Docker Daemon. 
+
+REST API: This acts as the bridge that carries your commands to the Docker Daemon.
+ 
 Docker Daemon or dockerd: This is the main part—the mastermind that handles and does everything else.
