@@ -40,7 +40,7 @@ When you type a Docker command, a well-organized background machinery handles yo
     Containerd: The industry-standard engine tucked inside Docker that handles the actual lifecycle of the container.
 
 
-## Docker
+## Docker in short
 
 Docker was brought in so that when you run code on someone else's machine and it breaks , that problem gets solved. 
 
