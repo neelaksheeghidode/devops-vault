@@ -1,4 +1,4 @@
-# Complete Linux & DevOps Commands Cheat Sheet
+# Complete Linux & DevOps Commands Cheat Sheet [completed]
 
 ## 1. Basic System & Info Commands
 | Command | What it does |
